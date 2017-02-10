@@ -8,7 +8,7 @@ Text goes here to say what will be in this section.  it will include lots of stu
 Putting my ordered list here.  **Things I wish I could have more time to do more often**
 Right now these are just numbers.  I think maybe they should all be 1s.
   1.golfing
-  2.running
+  2.running  ![runner lady](/images/InstituteDesktopBackground_v1_0919160.jpg)
      * long runs
      * races
   3.skiing
